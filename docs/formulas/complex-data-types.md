@@ -23,7 +23,7 @@ In the following example, we apply tags to Zendesk tickets for associated campai
 }
 ```
 
-Now, this presents a problem for us, because Workato input field mapping exist primary as key/value pairs. This required format is a primitive array of strings. This requires a complex data type (Array of Strings).
+Now, this presents a problem for us, because Workato input field mapping exists primarily as key/value pairs. This required format is a primitive array of strings. This requires a complex data type (Array of Strings).
 
 To do this, simply toggle the **Tags** input field to formula mode, and form the required structure. This can be done in a few ways.
 
